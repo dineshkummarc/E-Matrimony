@@ -1,0 +1,40 @@
+body{
+    background-color: #fff8dc;
+}
+
+.togg:hover{
+    border: 2px solid #000000;
+}
+
+.title{
+    font-size: 25px;
+}
+
+.brandlink{
+    font-family: monospace;
+    font-size: 20px;
+}
+
+.offcanvas-body{
+    font-size: 20px;
+    font-family: monospace;
+}
+
+.nav-item:hover{
+    border-bottom: 1px solid black;
+    color: #000000;
+}
+
+.menu{
+    text-align: center;
+}
+
+.dropdown:hover{
+    border: none;
+}
+
+@media print{
+    .dispnon{
+        display: none;
+    }
+}

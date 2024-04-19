@@ -1,0 +1,71 @@
+.logfrm{
+  width: 45%;
+  font-family: monospace;
+}
+
+.cd{
+    padding: 1rem;
+    border: 0.5px solid black;
+}
+
+.regfrm{
+  width:65%;
+}
+
+.cdr{
+    padding: 1rem;
+    border: 0.5px solid black;
+}
+
+.frminp{
+  margin: 0.5rem;
+}
+
+.frmlbl{
+  margin : 0.5rem;
+  margin-bottom: 0.01rem;
+}
+
+.btn{
+  width: 25%;
+}
+
+.error{
+  margin : 0.5rem;
+  margin-bottom: 0.01rem;
+  color: red;
+  font-size: 14px;
+}
+
+.btnr{
+  margin-top: 1rem;
+}
+
+.cdlog{
+    border: 0.1px solid black;
+    box-shadow: 0 0 10px rgba(8, 7, 16, 0.1);
+    transition: box-shadow 0.3s ease-in;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+.crtAcc{
+  text-decoration: none;
+  color:darkred;
+}
+
+.crtAcc:hover{
+  text-decoration-line: underline;
+  text-decoration-color: black;
+}
+
+.reAc{
+  width: 40%;
+}
+
+canvas {
+  width: 30%;
+  border-style: solid;
+  border-width: 1px;
+  border-color: black;
+}
