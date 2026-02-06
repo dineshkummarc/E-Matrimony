@@ -1,5 +1,5 @@
 # E-Matrimony
-A web based matrimony portal built using CodeIgnitor 4
+A web based matrimony portal built using CodeIgniter 4
 
 <h2>Creating Account</h2>
 https://github.com/devYashraj/E-Matrimony/assets/76515550/9a5be5b5-90d5-4b07-bbe9-15ba08a26870
